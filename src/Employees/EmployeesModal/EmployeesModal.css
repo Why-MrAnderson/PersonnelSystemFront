@@ -1,0 +1,17 @@
+.employees-modal {
+	width: 500px;
+	padding: 15px;
+}
+
+.employees-modal-text-field {
+	width: 100%;
+	margin: 10px;
+}
+
+.employees-modal-text-field.hidden {
+	display: none;
+}
+
+.employees-modal-text-field .MuiTextField-root {
+	width: 100%;
+}

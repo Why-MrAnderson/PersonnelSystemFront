@@ -1,0 +1,17 @@
+.organization-units-modal {
+	width: 500px;
+	padding: 15px;
+}
+
+.organization-units-modal-text-field {
+	width: 100%;
+	margin: 10px;
+}
+
+.organization-units-modal-text-field.hidden {
+	display: none;
+}
+
+.organization-units-modal-text-field .MuiTextField-root {
+	width: 100%;
+}

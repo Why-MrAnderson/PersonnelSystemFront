@@ -1,0 +1,12 @@
+.employees {
+	margin: 15px;
+}
+
+.employees-filter-field {
+	margin: 10px;
+	width: 550px !important;
+}
+
+.employees-filter-field .MuiTextField-root {
+	width: 100%;
+}
